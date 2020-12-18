@@ -1,0 +1,5 @@
+<map id="GPIO_voidSetPinDirection" name="GPIO_voidSetPinDirection">
+<area shape="rect" id="node1" title="Select the mode of a pin in specific port." alt="" coords="183,31,356,57"/>
+<area shape="rect" id="node2" href="$d8/db9/_s_p_i__program_8c.html#a7cef24914497e204314130181d800064" title="Config SPI to operate in Master mode." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node3" href="$d8/db9/_s_p_i__program_8c.html#ada1e8f1aab129a2338276fa79ed8ef6c" title="Config SPI to operate in Slave mode." alt="" coords="10,56,130,83"/>
+</map>

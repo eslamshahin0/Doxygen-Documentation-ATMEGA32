@@ -1,0 +1,6 @@
+<map id="USART_voidSendCharSynch" name="USART_voidSendCharSynch">
+<area shape="rect" id="node1" title="Send byte with polling." alt="" coords="487,23,675,50"/>
+<area shape="rect" id="node2" href="$d6/d17/_u_s_a_r_t__program_8c.html#a08056d28545659264c5492cee311980e" title="Send float number after transform it into string." alt="" coords="5,23,196,50"/>
+<area shape="rect" id="node3" href="$d6/d17/_u_s_a_r_t__program_8c.html#afed353f831fda76f0cf4970d1cb2ec75" title="Send integer number after transform it into string." alt="" coords="254,23,429,50"/>
+<area shape="rect" id="node4" href="$d6/d17/_u_s_a_r_t__program_8c.html#a774fcde1ccc67332373450835aa85ef3" title="Send string with polling." alt="" coords="244,74,439,100"/>
+</map>

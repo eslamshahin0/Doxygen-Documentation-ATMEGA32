@@ -1,0 +1,4 @@
+<map id="SPI_voidMasterInit" name="SPI_voidMasterInit">
+<area shape="rect" id="node1" title="Config SPI to operate in Master mode." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node2" href="$dc/dbd/_g_p_i_o__interface_8h.html#a59e65da9a3cba6297da43c7bf9c99c79" title="Select the mode of a pin in specific port." alt="" coords="183,5,356,32"/>
+</map>

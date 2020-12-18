@@ -1,0 +1,5 @@
+<map id="I2C_interface.h" name="I2C_interface.h">
+<area shape="rect" id="node1" title="This file has the APIs function&#39;s of I2C for ATMEGA32" alt="" coords="35,5,143,32"/>
+<area shape="rect" id="node2" href="$d0/d29/main_8c.html" title=" " alt="" coords="5,80,67,107"/>
+<area shape="rect" id="node3" href="$d1/d2e/_i2_c__program_8c.html" title="This file has the APIs Implementation functions for I2C module in ATMEGA32" alt="" coords="91,80,197,107"/>
+</map>

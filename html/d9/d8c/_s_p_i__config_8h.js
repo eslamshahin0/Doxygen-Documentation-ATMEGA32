@@ -1,0 +1,26 @@
+var _s_p_i__config_8h =
+[
+    [ "FOSC_DIV_128", "d9/d8c/_s_p_i__config_8h.html#a1641140d1e67bd10ef2bc7b9c1afce74", null ],
+    [ "FOSC_DIV_16", "d9/d8c/_s_p_i__config_8h.html#a0d5f1e46374f3cecffc2d6c458f7091e", null ],
+    [ "FOSC_DIV_4", "d9/d8c/_s_p_i__config_8h.html#aabdcccfbc606466c1f866b119fb114ef", null ],
+    [ "FOSC_DIV_64", "d9/d8c/_s_p_i__config_8h.html#a94cc28f2d602766bd56ca5f2648abf02", null ],
+    [ "FOSC_DS_DIV_2", "d9/d8c/_s_p_i__config_8h.html#a5a2adce873ad5f9b4f0cbd88ddebb1ae", null ],
+    [ "FOSC_DS_DIV_32", "d9/d8c/_s_p_i__config_8h.html#a5e25ccc132233bd662b9f0c3ee24cda7", null ],
+    [ "FOSC_DS_DIV_64", "d9/d8c/_s_p_i__config_8h.html#a56717d5b6db9338c49475857b5971dc5", null ],
+    [ "FOSC_DS_DIV_8", "d9/d8c/_s_p_i__config_8h.html#aaddccff4f7d87d46141ba54e7d2780b8", null ],
+    [ "SPI_2X_SPEED_ENABLE", "d9/d8c/_s_p_i__config_8h.html#a27e5a6ea4dfd5714aeec970a30b11421", null ],
+    [ "SPI_CLK", "d9/d8c/_s_p_i__config_8h.html#af3cfe48f6efdc257518227b43c1bc3df", null ],
+    [ "SPI_CLOCK_PHASE", "d9/d8c/_s_p_i__config_8h.html#aa55bedc710f39dd1d81a5a0fd30787d7", null ],
+    [ "SPI_CLOCK_POLARTY", "d9/d8c/_s_p_i__config_8h.html#a17427c712ac36bd06c280126e160dc3d", null ],
+    [ "SPI_DATA_ORDER", "d9/d8c/_s_p_i__config_8h.html#a29348dd4519241c6ac23773790cdcbc0", null ],
+    [ "SPI_LSB_FRIST", "d9/d8c/_s_p_i__config_8h.html#a3e8581ee301e5e4c598da6f547e92c2d", null ],
+    [ "SPI_MISO_PIN", "d9/d8c/_s_p_i__config_8h.html#a315722498711fce1e1aa6ea6654385cf", null ],
+    [ "SPI_MISO_PORT", "d9/d8c/_s_p_i__config_8h.html#a28f80193fbde762d8b7f896aa393deb6", null ],
+    [ "SPI_MOSI_PIN", "d9/d8c/_s_p_i__config_8h.html#a67d2c0b6e0ecbd0351958756e4830172", null ],
+    [ "SPI_MOSI_PORT", "d9/d8c/_s_p_i__config_8h.html#ae524a02b21071c5529918a33e35e846b", null ],
+    [ "SPI_MSB_FRIST", "d9/d8c/_s_p_i__config_8h.html#abbabeaa3375b2ab654d510ce32854686", null ],
+    [ "SPI_SCK_PIN", "d9/d8c/_s_p_i__config_8h.html#aee89f642bb559e12db93e9f412ea185e", null ],
+    [ "SPI_SCK_PORT", "d9/d8c/_s_p_i__config_8h.html#a6f9b7e59b3a2efdc061e0c886c80e068", null ],
+    [ "SPI_SS_PIN", "d9/d8c/_s_p_i__config_8h.html#a003fbe87aad5106aed3802d794580bbf", null ],
+    [ "SPI_SS_PORT", "d9/d8c/_s_p_i__config_8h.html#ae78c7428aa96db58f9028f8b2781b2d0", null ]
+];

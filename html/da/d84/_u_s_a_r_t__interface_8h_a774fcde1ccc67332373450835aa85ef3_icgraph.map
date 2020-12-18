@@ -1,0 +1,4 @@
+<map id="USART_voidSendStringSynch" name="USART_voidSendStringSynch">
+<area shape="rect" id="node1" title="Send string with polling." alt="" coords="244,5,439,32"/>
+<area shape="rect" id="node2" href="$d6/d17/_u_s_a_r_t__program_8c.html#a08056d28545659264c5492cee311980e" title="Send float number after transform it into string." alt="" coords="5,5,196,32"/>
+</map>

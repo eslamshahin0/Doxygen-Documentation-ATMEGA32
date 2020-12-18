@@ -1,0 +1,10 @@
+<map id="SPI_program.c" name="SPI_program.c">
+<area shape="rect" id="node1" title=" " alt="" coords="358,5,466,32"/>
+<area shape="rect" id="node2" href="$d1/de4/_s_t_d___t_y_p_e_s_8h.html" title=" " alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node4" href="$d4/deb/_b_i_t___m_a_t_h_8h.html" title="This file used to avoid the size change of the variables in different compilers and arch" alt="" coords="149,80,256,107"/>
+<area shape="rect" id="node5" href="$dc/d02/_mem___map32_8h.html" title="This file has the Register&#39;s adresses and bits numbers for each register" alt="" coords="280,80,400,107"/>
+<area shape="rect" id="node6" href="$dc/dbd/_g_p_i_o__interface_8h.html" title="This file has the APIs functions of The General Porpose Input Output Pins for ATMEGA32" alt="" coords="425,80,546,107"/>
+<area shape="rect" id="node7" href="$dd/dc4/_s_p_i__interface_8h.html" title="This file has the APIs function&#39;s of SPI module in ATMEGA32" alt="" coords="570,80,681,107"/>
+<area shape="rect" id="node8" href="$d9/d8c/_s_p_i__config_8h.html" title="This file used to Configuration the proprties of SPI module for ATMEGA32" alt="" coords="705,80,799,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="35,155,96,181"/>
+</map>

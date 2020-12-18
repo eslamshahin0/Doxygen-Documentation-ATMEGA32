@@ -1,0 +1,4 @@
+<map id="USART_u8ReceiveCharSynch" name="USART_u8ReceiveCharSynch">
+<area shape="rect" id="node1" title="Receiving byte with polling." alt="" coords="264,5,459,32"/>
+<area shape="rect" id="node2" href="$d6/d17/_u_s_a_r_t__program_8c.html#a8a698d66a2ffa330943d385c961596ca" title="Receive string with polling." alt="" coords="5,5,216,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TIMER0_program.c" name="TIMER0_program.c">
+<area shape="rect" id="node1" title="This file has the APIs Implementation functions for Timer0 module in ATMEGA32" alt="" coords="273,5,407,32"/>
+<area shape="rect" id="node2" href="$d1/de4/_s_t_d___t_y_p_e_s_8h.html" title=" " alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node4" href="$d4/deb/_b_i_t___m_a_t_h_8h.html" title="This file used to avoid the size change of the variables in different compilers and arch" alt="" coords="149,80,256,107"/>
+<area shape="rect" id="node5" href="$dc/d02/_mem___map32_8h.html" title="This file has the Register&#39;s adresses and bits numbers for each register" alt="" coords="280,80,400,107"/>
+<area shape="rect" id="node6" href="$d6/db6/_t_i_m_e_r0__interface_8h.html" title="This file has the APIs function&#39;s of Timer0 module in ATMEGA32" alt="" coords="425,80,559,107"/>
+<area shape="rect" id="node7" href="$d2/de3/_t_i_m_e_r0__config_8h.html" title="This file used to Configuration the proprties of Timer0 module for ATMEGA32" alt="" coords="584,80,704,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="35,155,96,181"/>
+</map>
